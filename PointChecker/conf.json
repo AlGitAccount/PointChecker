@@ -1,0 +1,158 @@
+{
+  "Language": [
+    {
+      "LanguageName": "En",
+      "TranslatedLanguages": [
+        {
+          "LanguageName": "En",
+          "LanguageTitle": "English"
+        },
+        {
+          "LanguageName": "Ru",
+          "LanguageTitle": "Russian"
+        }
+      ]
+    },
+    {
+      "LanguageName": "Ru",
+      "TranslatedLanguages": [
+        {
+          "LanguageName": "En",
+          "LanguageTitle": "Английский"
+        },
+        {
+          "LanguageName": "Ru",
+          "LanguageTitle": "Русский"
+        }
+      ]
+    }
+  ],
+  "Size": [
+    {
+      "LanguageName": "En",
+      "TranslatedSizes": [
+        {
+          "SizeName": "LG",
+          "SizeTitle": "Large"
+        },
+        {
+          "SizeName": "SM",
+          "SizeTitle": "Large"
+        }
+      ]
+    },
+    {
+      "LanguageName": "Ru",
+      "TranslatedSizes": [
+        {
+          "SizeName": "LG",
+          "SizeTitle": "Крупный"
+        },
+        {
+          "SizeName": "SM",
+          "SizeTitle": "Мелкий"
+        }
+      ]
+    }
+  ],
+  "Menu": [
+    {
+      "LanguageName": "En",
+      "TranslatedMenu": {
+        "Settings": "Settings",
+        "AutoStart": "Auto startup in Windows",
+        "Language": "Language",
+        "Quit": "Quit"
+      }
+    },
+    {
+      "LanguageName": "Ru",
+      "TranslatedMenu": {
+        "Settings": "Настройки",
+        "AutoStart": "Автозапуск в Windows",
+        "Language": "Язык",
+        "Quit": "Выход"
+      }
+    }
+  ],
+  "Sections": [
+    {
+      "LanguageName": "En",
+      "TranslatedSections": [
+        {
+          "SectionTitle": "Test Cases",
+          "CheckPoints": [
+            {
+              "CheckPointTitle": "Title Stile: 3W?",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Title Stile: 3W? \\b0 \\fs24 \\title0 \\par \\par Clear and concise Test Case naming is achieved by using \\b '3W?' \\b0 (What? Where? When?) title style: \\par \\b What? \\b0 - Tested object (feature) + related action (result). \\par \\b Where? \\b0  - Location/path to the test object. It should be a short description. \\par As an exception, this bloc can be skipped if an application has a simple UI (i.e. additional localization isn't needed because the test object location is obvious). \\par \\b When? \\b0  - Short definition/enumeration of the critical conditions for reproducing the test situation, the definition shouldn't contain more than two conditions. \\par As an exception, this block can be skipped if a Test Case means default conditions and doesn't need any additional actions to reproduce. \\par - Title may contain an additional part if one is critical for understanding the essence of the Test Case or identifying it relative to similar Test Cases. \\par \\par \\i Benefits: \\par - title contains all the key descriptions that allow you to understand the essence of the Test Case; \\par - taking into account the description completeness, the title is the smallest possible size; \\par - readability and understandability i.e. reduce risks probability related to a misunderstanding during working with test cases and the costs of identifying them by title. \\i0}"
+            },
+            {
+              "CheckPointTitle": "Repro Steps Style",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Repro Steps Style \\b0 \\fs24 \\title0 \\par \\par Use the following rules to achieve \\b the best style \\b0 of writing \\b Repro Steps \\b0:  \\par \\par - Avoid detail unless it is critical to reproduction. Keep each step short and to the point however, the detail of the description should be such that an engineer with limited experience on the project could fully advantage use these steps; \\par - Use simple language to describe steps. \\par - Use Imperative Mood: Start each step with a verb to clearly indicate actions to be taken. For example, 'Click on the Save button'. \\par - Follow the project terminology, i.e. each object or action within a project must have one name. \\par \\par Use \\b preconditions/postconditions \\b0 to separate a test-system preparation/return to default state and directly test case reproducing: \\par - Use preconditions if the test case needs preliminary activities or configuration. Use preconditions for a section or group of auto-tests if possible and reasonable.\t\\par - Use postcondition if, as part of a test case, you used an action or created data that changes the state of the system. Use postconditions for a section or group of auto-tests if possible and reasonable. \\par \\par \\i Benefits: \\par - readability and understandability; \\par - title contains all the key descriptions that allow you to understand the essence of the test case; \\par - taking into account the completeness of the description, the title is the smallest possible size; \\i0}"
+            },
+            {
+              "CheckPointTitle": "Atomicity",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Atomicity \\b0 \\fs24 \\title0 \\par \\par Test Case is considered \\b atomic \\b0 if it satisfies the following conditions: \\par - Test Case execution results should not rely on the execution or execution results of other Test Cases; \\par - Test Case result or execution should not affect the execution or results of other Test Cases; \\par - Test Case should cover one unique behavior of one functionality; \\par \\par \\i Benefits: \\par - irrelevance or the result of a previous test case cannot affect the result of other Test Cases; \\par - changes to Test Cases cannot affect the results of other tests; \\par - duplicate detection (as a result of reduction in creation/support costs); \\par - clear definition of the test coverage; \\par \\par \\i Note: \\par - \\ul Traceability Matrix\\ul0  allows you to effectively control test coverage and work with risks associated with test coverage, control duplication of Test Cases, and reduce the cost of Test Case support. \\i0\\i0}"
+            }
+          ]
+        },
+        {
+          "SectionTitle": "Requirements Testing",
+          "CheckPoints": [
+            {
+              "CheckPointTitle": "Title Stile: 3W?",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Title Stile: 3W? \\b0 \\fs24 \\title0 \\par \\par Clear and concise Test Case naming is achieved by using \\b '3W?' \\b0 (What? Where? When?) title style: \\par \\b What? \\b0 - Tested object (feature) + related action (result). \\par \\b Where? \\b0  - Location/path to the test object. It should be a short description. \\par As an exception, this bloc can be skipped if an application has a simple UI (i.e. additional localization isn't needed because the test object location is obvious). \\par \\b When? \\b0  - Short definition/enumeration of the critical conditions for reproducing the test situation, the definition shouldn't contain more than two conditions. \\par As an exception, this block can be skipped if a Test Case means default conditions and doesn't need any additional actions to reproduce. \\par - Title may contain an additional part if one is critical for understanding the essence of the Test Case or identifying it relative to similar Test Cases. \\par \\par \\i Benefits: \\par - title contains all the key descriptions that allow you to understand the essence of the Test Case; \\par - taking into account the description completeness, the title is the smallest possible size; \\par - readability and understandability i.e. reduce risks probability related to a misunderstanding during working with test cases and the costs of identifying them by title. \\i0}"
+            },
+            {
+              "CheckPointTitle": "Repro Steps Style",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Repro Steps Style \\b0 \\fs24 \\title0 \\par \\par Use the following rules to achieve \\b the best style \\b0 of writing \\b Repro Steps \\b0:  \\par \\par - Avoid detail unless it is critical to reproduction. Keep each step short and to the point however, the detail of the description should be such that an engineer with limited experience on the project could fully advantage use these steps; \\par - Use simple language to describe steps. \\par - Use Imperative Mood: Start each step with a verb to clearly indicate actions to be taken. For example, 'Click on the Save button'. \\par - Follow the project terminology, i.e. each object or action within a project must have one name. \\par \\par Use \\b preconditions/postconditions \\b0 to separate a test-system preparation/return to default state and directly test case reproducing: \\par - Use preconditions if the test case needs preliminary activities or configuration. Use preconditions for a section or group of auto-tests if possible and reasonable.\t\\par - Use postcondition if, as part of a test case, you used an action or created data that changes the state of the system. Use postconditions for a section or group of auto-tests if possible and reasonable. \\par \\par \\i Benefits: \\par - readability and understandability; \\par - title contains all the key descriptions that allow you to understand the essence of the test case; \\par - taking into account the completeness of the description, the title is the smallest possible size; \\i0}"
+            },
+            {
+              "CheckPointTitle": "Atomicity",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Atomicity \\b0 \\fs24 \\title0 \\par \\par Test Case is considered \\b atomic \\b0 if it satisfies the following conditions: \\par - Test Case execution results should not rely on the execution or execution results of other Test Cases; \\par - Test Case result or execution should not affect the execution or results of other Test Cases; \\par - Test Case should cover one unique behavior of one functionality; \\par \\par \\i Benefits: \\par - irrelevance or the result of a previous test case cannot affect the result of other Test Cases; \\par - changes to Test Cases cannot affect the results of other tests; \\par - duplicate detection (as a result of reduction in creation/support costs); \\par - clear definition of the test coverage; \\par \\par \\i Note: \\par - \\ul Traceability Matrix\\ul0  allows you to effectively control test coverage and work with risks associated with test coverage, control duplication of Test Cases, and reduce the cost of Test Case support. \\i0\\i0}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "LanguageName": "Ru",
+      "TranslatedSections": [
+        {
+          "SectionTitle": "Тестовые Случаи",
+          "CheckPoints": [
+            {
+              "CheckPointTitle": "Стиль заголовка: Что? Где? Когда?",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Title Stile: 3W? \\b0 \\fs24 \\title0 \\par \\par Clear and concise Test Case naming is achieved by using \\b '3W?' \\b0 (What? Where? When?) title style: \\par \\b What? \\b0 - Tested object (feature) + related action (result). \\par \\b Where? \\b0  - Location/path to the test object. It should be a short description. \\par As an exception, this bloc can be skipped if an application has a simple UI (i.e. additional localization isn't needed because the test object location is obvious). \\par \\b When? \\b0  - Short definition/enumeration of the critical conditions for reproducing the test situation, the definition shouldn't contain more than two conditions. \\par As an exception, this block can be skipped if a Test Case means default conditions and doesn't need any additional actions to reproduce. \\par - Title may contain an additional part if one is critical for understanding the essence of the Test Case or identifying it relative to similar Test Cases. \\par \\par \\i Benefits: \\par - title contains all the key descriptions that allow you to understand the essence of the Test Case; \\par - taking into account the description completeness, the title is the smallest possible size; \\par - readability and understandability i.e. reduce risks probability related to a misunderstanding during working with test cases and the costs of identifying them by title. \\i0}"
+            },
+            {
+              "CheckPointTitle": "Шаги воспроизведения",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Repro Steps Style \\b0 \\fs24 \\title0 \\par \\par Use the following rules to achieve \\b the best style \\b0 of writing \\b Repro Steps \\b0:  \\par \\par - Avoid detail unless it is critical to reproduction. Keep each step short and to the point however, the detail of the description should be such that an engineer with limited experience on the project could fully advantage use these steps; \\par - Use simple language to describe steps. \\par - Use Imperative Mood: Start each step with a verb to clearly indicate actions to be taken. For example, 'Click on the Save button'. \\par - Follow the project terminology, i.e. each object or action within a project must have one name. \\par \\par Use \\b preconditions/postconditions \\b0 to separate a test-system preparation/return to default state and directly test case reproducing: \\par - Use preconditions if the test case needs preliminary activities or configuration. Use preconditions for a section or group of auto-tests if possible and reasonable.\t\\par - Use postcondition if, as part of a test case, you used an action or created data that changes the state of the system. Use postconditions for a section or group of auto-tests if possible and reasonable. \\par \\par \\i Benefits: \\par - readability and understandability; \\par - title contains all the key descriptions that allow you to understand the essence of the test case; \\par - taking into account the completeness of the description, the title is the smallest possible size; \\i0}"
+            },
+            {
+              "CheckPointTitle": "Атомарность",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Atomicity \\b0 \\fs24 \\title0 \\par \\par Test Case is considered \\b atomic \\b0 if it satisfies the following conditions: \\par - Test Case execution results should not rely on the execution or execution results of other Test Cases; \\par - Test Case result or execution should not affect the execution or results of other Test Cases; \\par - Test Case should cover one unique behavior of one functionality; \\par \\par \\i Benefits: \\par - irrelevance or the result of a previous test case cannot affect the result of other Test Cases; \\par - changes to Test Cases cannot affect the results of other tests; \\par - duplicate detection (as a result of reduction in creation/support costs); \\par - clear definition of the test coverage; \\par \\par \\i Note: \\par - \\ul Traceability Matrix\\ul0  allows you to effectively control test coverage and work with risks associated with test coverage, control duplication of Test Cases, and reduce the cost of Test Case support. \\i0\\i0}"
+            }
+          ]
+        },
+        {
+          "SectionTitle": "Тестирование Требований",
+          "CheckPoints": [
+            {
+              "CheckPointTitle": "Стиль заголовка: Что? Где? Когда?",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Title Stile: 3W? \\b0 \\fs24 \\title0 \\par \\par Clear and concise Test Case naming is achieved by using \\b '3W?' \\b0 (What? Where? When?) title style: \\par \\b What? \\b0 - Tested object (feature) + related action (result). \\par \\b Where? \\b0  - Location/path to the test object. It should be a short description. \\par As an exception, this bloc can be skipped if an application has a simple UI (i.e. additional localization isn't needed because the test object location is obvious). \\par \\b When? \\b0  - Short definition/enumeration of the critical conditions for reproducing the test situation, the definition shouldn't contain more than two conditions. \\par As an exception, this block can be skipped if a Test Case means default conditions and doesn't need any additional actions to reproduce. \\par - Title may contain an additional part if one is critical for understanding the essence of the Test Case or identifying it relative to similar Test Cases. \\par \\par \\i Benefits: \\par - title contains all the key descriptions that allow you to understand the essence of the Test Case; \\par - taking into account the description completeness, the title is the smallest possible size; \\par - readability and understandability i.e. reduce risks probability related to a misunderstanding during working with test cases and the costs of identifying them by title. \\i0}"
+            },
+            {
+              "CheckPointTitle": "Шаги воспроизведения",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Repro Steps Style \\b0 \\fs24 \\title0 \\par \\par Use the following rules to achieve \\b the best style \\b0 of writing \\b Repro Steps \\b0:  \\par \\par - Avoid detail unless it is critical to reproduction. Keep each step short and to the point however, the detail of the description should be such that an engineer with limited experience on the project could fully advantage use these steps; \\par - Use simple language to describe steps. \\par - Use Imperative Mood: Start each step with a verb to clearly indicate actions to be taken. For example, 'Click on the Save button'. \\par - Follow the project terminology, i.e. each object or action within a project must have one name. \\par \\par Use \\b preconditions/postconditions \\b0 to separate a test-system preparation/return to default state and directly test case reproducing: \\par - Use preconditions if the test case needs preliminary activities or configuration. Use preconditions for a section or group of auto-tests if possible and reasonable.\t\\par - Use postcondition if, as part of a test case, you used an action or created data that changes the state of the system. Use postconditions for a section or group of auto-tests if possible and reasonable. \\par \\par \\i Benefits: \\par - readability and understandability; \\par - title contains all the key descriptions that allow you to understand the essence of the test case; \\par - taking into account the completeness of the description, the title is the smallest possible size; \\i0}"
+            },
+            {
+              "CheckPointTitle": "Атомарность",
+              "ToolTipValue": "{\\rtf1 \\title \\fs28 \\b Atomicity \\b0 \\fs24 \\title0 \\par \\par Test Case is considered \\b atomic \\b0 if it satisfies the following conditions: \\par - Test Case execution results should not rely on the execution or execution results of other Test Cases; \\par - Test Case result or execution should not affect the execution or results of other Test Cases; \\par - Test Case should cover one unique behavior of one functionality; \\par \\par \\i Benefits: \\par - irrelevance or the result of a previous test case cannot affect the result of other Test Cases; \\par - changes to Test Cases cannot affect the results of other tests; \\par - duplicate detection (as a result of reduction in creation/support costs); \\par - clear definition of the test coverage; \\par \\par \\i Note: \\par - \\ul Traceability Matrix\\ul0  allows you to effectively control test coverage and work with risks associated with test coverage, control duplication of Test Cases, and reduce the cost of Test Case support. \\i0\\i0}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

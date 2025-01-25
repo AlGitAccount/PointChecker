@@ -1,0 +1,283 @@
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FMain.resources
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\bin\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.frmToolTip.resources
+C:\Temp\_Examples\0028 PointChecker\PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.frmToolTip.resources
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FMain.resources
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0038 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CopyComplete
+C:\Temp\_Examples\0038 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0041 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.frmToolTip.resources
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FMain.resources
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CopyComplete
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FCheckBox.resources
+C:\Temp\_Examples\0041 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0042 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0005 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0006 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0008 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0009 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.FainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0010 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.MainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0011 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.exe
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.deps.json
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.json
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.runtimeconfig.dev.json
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.AssemblyReference.cache
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CheckBoxForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomCheckBox.resources
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.CustomControl.CustomToolTipForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.MainForm.resources
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.Properties.Resources.resources
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.GenerateResource.cache
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfoInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.AssemblyInfo.cs
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.csproj.CoreCompileInputs.cache
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChe.DCB6136D.Up2Date
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\refint\PointChecker.dll
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.pdb
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\PointChecker.genruntimeconfig.cache
+C:\Temp\_Examples\0000 00 PointChecker\0012 PointChecker\PointChecker\obj\Debug\net5.0-windows\ref\PointChecker.dll
